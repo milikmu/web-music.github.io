@@ -13,7 +13,7 @@ new Vue({
           name: "never gonna give you up",
           artist: "rick astley",
           cover: "https://raw.githubusercontent.com/milikmu/web-music.github.io/master/img/rickroll.jpg",
-          source: "https://raw.githubusercontent.com/milikmi/web-music.github.io/master/mp3/Rick Astley - Never Gonna Give You Up.mp3",
+          source: "https://raw.githubusercontent.com/milikmi/web-music.github.io/master/mp3/rikroll.mp3",
           url: "https://youtu.be/dQw4w9WgXcQ",
           favorited: false
         }
